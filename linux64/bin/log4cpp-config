@@ -61,7 +61,7 @@ done
  
 # defaults from configure; set only if not set previously
 if test -z "$prefix" ; then
-  prefix="/home/dd/log4cpp/liblog4cpp/linux64"
+  prefix="/home/dd/libs/liblog4cpp/linux64"
 fi
 if test -z "$exec_prefix" ; then
   exec_prefix="${prefix}"

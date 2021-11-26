@@ -1,4 +1,4 @@
-prefix=/home/dd/log4cpp/liblog4cpp/linux64
+prefix=/home/dd/libs/liblog4cpp/linux64
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
